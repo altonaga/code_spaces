@@ -1,0 +1,24 @@
+{
+  "name": "code_spaces",
+  "version": "0.1.0",
+  "description": "A testing package for Codespaces",
+  "main": "index.js",
+  "scripts": {
+    "test": "testit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/altonaga/code_spaces.git"
+  },
+  "keywords": [
+    "test",
+    "codespaces",
+    "git"
+  ],
+  "author": "David Altonaga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/altonaga/code_spaces/issues"
+  },
+  "homepage": "https://github.com/altonaga/code_spaces#readme"
+}
